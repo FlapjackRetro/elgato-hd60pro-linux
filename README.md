@@ -1,5 +1,7 @@
 # hd60pro — Linux driver for the Elgato Game Capture HD60 Pro
 
+Made with Claude Code.
+
 An experimental, reverse-engineered Linux kernel driver for the **Elgato Game Capture HD60 Pro**
 PCI Express capture card (YUAN MZ0380, PCI ID `12ab:0380` / `12ab:0381`).
 
